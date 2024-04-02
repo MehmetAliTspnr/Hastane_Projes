@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\Hastane_Projesi\Hastane_Projesi\bin\Debug\Hastane_Projesi.exe.config
+C:\Users\ASUS\source\repos\Hastane_Projesi\Hastane_Projesi\bin\Debug\Hastane_Projesi.exe
+C:\Users\ASUS\source\repos\Hastane_Projesi\Hastane_Projesi\bin\Debug\Hastane_Projesi.pdb
+C:\Users\ASUS\source\repos\Hastane_Projesi\Hastane_Projesi\obj\Debug\Hastane_Projesi.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Hastane_Projesi\Hastane_Projesi\obj\Debug\Hastane_Projesi.Form1.resources
+C:\Users\ASUS\source\repos\Hastane_Projesi\Hastane_Projesi\obj\Debug\Hastane_Projesi.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Hastane_Projesi\Hastane_Projesi\obj\Debug\Hastane_Projesi.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Hastane_Projesi\Hastane_Projesi\obj\Debug\Hastane_Projesi.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Hastane_Projesi\Hastane_Projesi\obj\Debug\Hastane_Projesi.exe
+C:\Users\ASUS\source\repos\Hastane_Projesi\Hastane_Projesi\obj\Debug\Hastane_Projesi.pdb
+C:\Users\ASUS\source\repos\Hastane_Projesi\Hastane_Projesi\obj\Debug\Hastane_Projesi.Frmhastagiris.resources
+C:\Users\ASUS\source\repos\Hastane_Projesi\Hastane_Projesi\obj\Debug\Hastane_Projesi.FrmUyeKayit.resources

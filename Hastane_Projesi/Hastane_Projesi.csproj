@@ -52,10 +52,37 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmHastaDetay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmHastaDetay.Designer.cs">
+      <DependentUpon>FrmHastaDetay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmhastagiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmhastagiris.Designer.cs">
+      <DependentUpon>Frmhastagiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUyeKayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUyeKayit.Designer.cs">
+      <DependentUpon>FrmUyeKayit.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmHastaDetay.resx">
+      <DependentUpon>FrmHastaDetay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmhastagiris.resx">
+      <DependentUpon>Frmhastagiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUyeKayit.resx">
+      <DependentUpon>FrmUyeKayit.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -65,6 +92,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -78,6 +106,21 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\patient png.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doctorpng.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sekreterpng.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\heart png.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\360_F_337387862_RLupy2Ts2bONn0biXdCAROpFrS9cwjXE.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
