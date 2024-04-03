@@ -10,3 +10,11 @@ C:\Users\ASUS\source\repos\Hastane_Projesi\Hastane_Projesi\obj\Debug\Hastane_Pro
 C:\Users\ASUS\source\repos\Hastane_Projesi\Hastane_Projesi\obj\Debug\Hastane_Projesi.pdb
 C:\Users\ASUS\source\repos\Hastane_Projesi\Hastane_Projesi\obj\Debug\Hastane_Projesi.Frmhastagiris.resources
 C:\Users\ASUS\source\repos\Hastane_Projesi\Hastane_Projesi\obj\Debug\Hastane_Projesi.FrmUyeKayit.resources
+C:\Users\ASUS\source\repos\Hastane_Projesi\Hastane_Projesi\obj\Debug\Hastane_Projesi.FrmBilgiDüzenle.resources
+C:\Users\ASUS\source\repos\Hastane_Projesi\Hastane_Projesi\obj\Debug\Hastane_Projesi.FrmDoktorBilgiDüzenle.resources
+C:\Users\ASUS\source\repos\Hastane_Projesi\Hastane_Projesi\obj\Debug\Hastane_Projesi.FrmDoktorDetay.resources
+C:\Users\ASUS\source\repos\Hastane_Projesi\Hastane_Projesi\obj\Debug\Hastane_Projesi.FrmDoktorGiris.resources
+C:\Users\ASUS\source\repos\Hastane_Projesi\Hastane_Projesi\obj\Debug\Hastane_Projesi.FrmDuyurular.resources
+C:\Users\ASUS\source\repos\Hastane_Projesi\Hastane_Projesi\obj\Debug\Hastane_Projesi.FrmHastaDetay.resources
+C:\Users\ASUS\source\repos\Hastane_Projesi\Hastane_Projesi\obj\Debug\Hastane_Projesi.FrmSekreterDetay.resources
+C:\Users\ASUS\source\repos\Hastane_Projesi\Hastane_Projesi\obj\Debug\Hastane_Projesi.FrmSekreterGiris.resources

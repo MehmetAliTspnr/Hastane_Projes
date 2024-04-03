@@ -29,19 +29,18 @@
         private void InitializeComponent()
         {
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.label1 = new System.Windows.Forms.Label();
-            this.lbltc = new System.Windows.Forms.Label();
-            this.lbladsoyad = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
+            this.lbladsoyad = new System.Windows.Forms.Label();
+            this.lbltc = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.rchsikayet = new System.Windows.Forms.RichTextBox();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            this.rchsikayet = new System.Windows.Forms.RichTextBox();
             this.groupBox4 = new System.Windows.Forms.GroupBox();
-            this.btnguncelle = new System.Windows.Forms.Button();
-            this.btnduyurular = new System.Windows.Forms.Button();
             this.btncikis = new System.Windows.Forms.Button();
-            this.btninternet = new System.Windows.Forms.Button();
+            this.btnduyurular = new System.Windows.Forms.Button();
+            this.btnguncelle = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -62,23 +61,14 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "DOKTOR BİLGİ";
             // 
-            // label1
+            // label4
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(6, 32);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(82, 28);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "TC NO:";
-            // 
-            // lbltc
-            // 
-            this.lbltc.AutoSize = true;
-            this.lbltc.Location = new System.Drawing.Point(94, 32);
-            this.lbltc.Name = "lbltc";
-            this.lbltc.Size = new System.Drawing.Size(144, 28);
-            this.lbltc.TabIndex = 1;
-            this.lbltc.Text = "00000000000";
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(6, 65);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(129, 28);
+            this.label4.TabIndex = 3;
+            this.label4.Text = "AD-SOYAD:";
             // 
             // lbladsoyad
             // 
@@ -89,14 +79,23 @@
             this.lbladsoyad.TabIndex = 2;
             this.lbladsoyad.Text = "NULL NULL";
             // 
-            // label4
+            // lbltc
             // 
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(6, 65);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(129, 28);
-            this.label4.TabIndex = 3;
-            this.label4.Text = "AD-SOYAD:";
+            this.lbltc.AutoSize = true;
+            this.lbltc.Location = new System.Drawing.Point(94, 32);
+            this.lbltc.Name = "lbltc";
+            this.lbltc.Size = new System.Drawing.Size(144, 28);
+            this.lbltc.TabIndex = 1;
+            this.lbltc.Text = "00000000000";
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(6, 32);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(82, 28);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "TC NO:";
             // 
             // groupBox2
             // 
@@ -107,6 +106,14 @@
             this.groupBox2.TabIndex = 1;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "RANDEVU DETAY";
+            // 
+            // rchsikayet
+            // 
+            this.rchsikayet.Location = new System.Drawing.Point(0, 24);
+            this.rchsikayet.Name = "rchsikayet";
+            this.rchsikayet.Size = new System.Drawing.Size(319, 208);
+            this.rchsikayet.TabIndex = 0;
+            this.rchsikayet.Text = "";
             // 
             // groupBox3
             // 
@@ -129,17 +136,8 @@
             this.dataGridView1.Size = new System.Drawing.Size(612, 497);
             this.dataGridView1.TabIndex = 0;
             // 
-            // rchsikayet
-            // 
-            this.rchsikayet.Location = new System.Drawing.Point(0, 24);
-            this.rchsikayet.Name = "rchsikayet";
-            this.rchsikayet.Size = new System.Drawing.Size(319, 208);
-            this.rchsikayet.TabIndex = 0;
-            this.rchsikayet.Text = "";
-            // 
             // groupBox4
             // 
-            this.groupBox4.Controls.Add(this.btninternet);
             this.groupBox4.Controls.Add(this.btncikis);
             this.groupBox4.Controls.Add(this.btnduyurular);
             this.groupBox4.Controls.Add(this.btnguncelle);
@@ -150,15 +148,15 @@
             this.groupBox4.TabStop = false;
             this.groupBox4.Text = "HIZLI ERİŞİM";
             // 
-            // btnguncelle
+            // btncikis
             // 
-            this.btnguncelle.Font = new System.Drawing.Font("Corbel", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.btnguncelle.Location = new System.Drawing.Point(11, 35);
-            this.btnguncelle.Name = "btnguncelle";
-            this.btnguncelle.Size = new System.Drawing.Size(138, 32);
-            this.btnguncelle.TabIndex = 0;
-            this.btnguncelle.Text = "BİLGİ DÜZENLE";
-            this.btnguncelle.UseVisualStyleBackColor = true;
+            this.btncikis.Font = new System.Drawing.Font("Corbel", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.btncikis.Location = new System.Drawing.Point(11, 85);
+            this.btncikis.Name = "btncikis";
+            this.btncikis.Size = new System.Drawing.Size(293, 36);
+            this.btncikis.TabIndex = 2;
+            this.btncikis.Text = "ÇIKIŞ";
+            this.btncikis.UseVisualStyleBackColor = true;
             // 
             // btnduyurular
             // 
@@ -170,25 +168,15 @@
             this.btnduyurular.Text = "DUYURULAR";
             this.btnduyurular.UseVisualStyleBackColor = true;
             // 
-            // btncikis
+            // btnguncelle
             // 
-            this.btncikis.Font = new System.Drawing.Font("Corbel", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.btncikis.Location = new System.Drawing.Point(166, 89);
-            this.btncikis.Name = "btncikis";
-            this.btncikis.Size = new System.Drawing.Size(138, 32);
-            this.btncikis.TabIndex = 2;
-            this.btncikis.Text = "ÇIKIŞ";
-            this.btncikis.UseVisualStyleBackColor = true;
-            // 
-            // btninternet
-            // 
-            this.btninternet.Font = new System.Drawing.Font("Corbel", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.btninternet.Location = new System.Drawing.Point(11, 89);
-            this.btninternet.Name = "btninternet";
-            this.btninternet.Size = new System.Drawing.Size(138, 32);
-            this.btninternet.TabIndex = 3;
-            this.btninternet.Text = "İNTERNET";
-            this.btninternet.UseVisualStyleBackColor = true;
+            this.btnguncelle.Font = new System.Drawing.Font("Corbel", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.btnguncelle.Location = new System.Drawing.Point(11, 35);
+            this.btnguncelle.Name = "btnguncelle";
+            this.btnguncelle.Size = new System.Drawing.Size(138, 32);
+            this.btnguncelle.TabIndex = 0;
+            this.btnguncelle.Text = "BİLGİ DÜZENLE";
+            this.btnguncelle.UseVisualStyleBackColor = true;
             // 
             // FrmDoktorDetay
             // 
@@ -229,6 +217,5 @@
         private System.Windows.Forms.Button btncikis;
         private System.Windows.Forms.Button btnduyurular;
         private System.Windows.Forms.Button btnguncelle;
-        private System.Windows.Forms.Button btninternet;
     }
 }

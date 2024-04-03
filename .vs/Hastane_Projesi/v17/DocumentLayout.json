@@ -3,32 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\Hastane_Projesi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CEADD3A1-5BC2-4BDB-A765-702BCDBFDABB}|Hastane_Projesi\\Hastane_Projesi.csproj|c:\\users\\asus\\source\\repos\\hastane_projesi\\hastane_projesi\\frmdoktordetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CEADD3A1-5BC2-4BDB-A765-702BCDBFDABB}|Hastane_Projesi\\Hastane_Projesi.csproj|solutionrelative:hastane_projesi\\frmdoktordetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{CEADD3A1-5BC2-4BDB-A765-702BCDBFDABB}|Hastane_Projesi\\Hastane_Projesi.csproj|c:\\users\\asus\\source\\repos\\hastane_projesi\\hastane_projesi\\frmrandevulistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CEADD3A1-5BC2-4BDB-A765-702BCDBFDABB}|Hastane_Projesi\\Hastane_Projesi.csproj|solutionrelative:hastane_projesi\\frmrandevulistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CEADD3A1-5BC2-4BDB-A765-702BCDBFDABB}|Hastane_Projesi\\Hastane_Projesi.csproj|C:\\Users\\ASUS\\source\\repos\\Hastane_Projesi\\hastane_projesi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CEADD3A1-5BC2-4BDB-A765-702BCDBFDABB}|Hastane_Projesi\\Hastane_Projesi.csproj|solutionrelative:hastane_projesi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{CEADD3A1-5BC2-4BDB-A765-702BCDBFDABB}|Hastane_Projesi\\Hastane_Projesi.csproj|c:\\users\\asus\\source\\repos\\hastane_projesi\\hastane_projesi\\frmbrans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CEADD3A1-5BC2-4BDB-A765-702BCDBFDABB}|Hastane_Projesi\\Hastane_Projesi.csproj|solutionrelative:hastane_projesi\\frmbrans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEADD3A1-5BC2-4BDB-A765-702BCDBFDABB}|Hastane_Projesi\\Hastane_Projesi.csproj|c:\\users\\asus\\source\\repos\\hastane_projesi\\hastane_projesi\\frmdoktorpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CEADD3A1-5BC2-4BDB-A765-702BCDBFDABB}|Hastane_Projesi\\Hastane_Projesi.csproj|solutionrelative:hastane_projesi\\frmdoktorpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEADD3A1-5BC2-4BDB-A765-702BCDBFDABB}|Hastane_Projesi\\Hastane_Projesi.csproj|c:\\users\\asus\\source\\repos\\hastane_projesi\\hastane_projesi\\frmsekreterdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CEADD3A1-5BC2-4BDB-A765-702BCDBFDABB}|Hastane_Projesi\\Hastane_Projesi.csproj|solutionrelative:hastane_projesi\\frmsekreterdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEADD3A1-5BC2-4BDB-A765-702BCDBFDABB}|Hastane_Projesi\\Hastane_Projesi.csproj|C:\\Users\\ASUS\\source\\repos\\Hastane_Projesi\\hastane_projesi\\frmhastadetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CEADD3A1-5BC2-4BDB-A765-702BCDBFDABB}|Hastane_Projesi\\Hastane_Projesi.csproj|solutionrelative:hastane_projesi\\frmhastadetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEADD3A1-5BC2-4BDB-A765-702BCDBFDABB}|Hastane_Projesi\\Hastane_Projesi.csproj|c:\\users\\asus\\source\\repos\\hastane_projesi\\hastane_projesi\\frmduyurular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CEADD3A1-5BC2-4BDB-A765-702BCDBFDABB}|Hastane_Projesi\\Hastane_Projesi.csproj|solutionrelative:hastane_projesi\\frmduyurular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEADD3A1-5BC2-4BDB-A765-702BCDBFDABB}|Hastane_Projesi\\Hastane_Projesi.csproj|c:\\users\\asus\\source\\repos\\hastane_projesi\\hastane_projesi\\frmsekretergiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CEADD3A1-5BC2-4BDB-A765-702BCDBFDABB}|Hastane_Projesi\\Hastane_Projesi.csproj|solutionrelative:hastane_projesi\\frmsekretergiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CEADD3A1-5BC2-4BDB-A765-702BCDBFDABB}|Hastane_Projesi\\Hastane_Projesi.csproj|C:\\Users\\ASUS\\source\\repos\\Hastane_Projesi\\hastane_projesi\\frmhastagiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CEADD3A1-5BC2-4BDB-A765-702BCDBFDABB}|Hastane_Projesi\\Hastane_Projesi.csproj|solutionrelative:hastane_projesi\\frmhastagiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CEADD3A1-5BC2-4BDB-A765-702BCDBFDABB}|Hastane_Projesi\\Hastane_Projesi.csproj|C:\\Users\\ASUS\\source\\repos\\Hastane_Projesi\\hastane_projesi\\frmuyekayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CEADD3A1-5BC2-4BDB-A765-702BCDBFDABB}|Hastane_Projesi\\Hastane_Projesi.csproj|solutionrelative:hastane_projesi\\frmuyekayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{CEADD3A1-5BC2-4BDB-A765-702BCDBFDABB}|Hastane_Projesi\\Hastane_Projesi.csproj|c:\\users\\asus\\source\\repos\\hastane_projesi\\hastane_projesi\\frmdoktordetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CEADD3A1-5BC2-4BDB-A765-702BCDBFDABB}|Hastane_Projesi\\Hastane_Projesi.csproj|solutionrelative:hastane_projesi\\frmdoktordetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CEADD3A1-5BC2-4BDB-A765-702BCDBFDABB}|Hastane_Projesi\\Hastane_Projesi.csproj|c:\\users\\asus\\source\\repos\\hastane_projesi\\hastane_projesi\\frmhastadetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CEADD3A1-5BC2-4BDB-A765-702BCDBFDABB}|Hastane_Projesi\\Hastane_Projesi.csproj|solutionrelative:hastane_projesi\\frmhastadetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{CEADD3A1-5BC2-4BDB-A765-702BCDBFDABB}|Hastane_Projesi\\Hastane_Projesi.csproj|c:\\users\\asus\\source\\repos\\hastane_projesi\\hastane_projesi\\frmdoktorbilgid\u00FCzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CEADD3A1-5BC2-4BDB-A765-702BCDBFDABB}|Hastane_Projesi\\Hastane_Projesi.csproj|solutionrelative:hastane_projesi\\frmdoktorbilgid\u00FCzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CEADD3A1-5BC2-4BDB-A765-702BCDBFDABB}|Hastane_Projesi\\Hastane_Projesi.csproj|c:\\users\\asus\\source\\repos\\hastane_projesi\\hastane_projesi\\frmbilgid\u00FCzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{CEADD3A1-5BC2-4BDB-A765-702BCDBFDABB}|Hastane_Projesi\\Hastane_Projesi.csproj|C:\\Users\\ASUS\\source\\repos\\Hastane_Projesi\\hastane_projesi\\frmbilgid\u00FCzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CEADD3A1-5BC2-4BDB-A765-702BCDBFDABB}|Hastane_Projesi\\Hastane_Projesi.csproj|solutionrelative:hastane_projesi\\frmbilgid\u00FCzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CEADD3A1-5BC2-4BDB-A765-702BCDBFDABB}|Hastane_Projesi\\Hastane_Projesi.csproj|c:\\users\\asus\\source\\repos\\hastane_projesi\\hastane_projesi\\frmdoktorgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{CEADD3A1-5BC2-4BDB-A765-702BCDBFDABB}|Hastane_Projesi\\Hastane_Projesi.csproj|C:\\Users\\ASUS\\source\\repos\\Hastane_Projesi\\hastane_projesi\\frmdoktorgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CEADD3A1-5BC2-4BDB-A765-702BCDBFDABB}|Hastane_Projesi\\Hastane_Projesi.csproj|solutionrelative:hastane_projesi\\frmdoktorgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEADD3A1-5BC2-4BDB-A765-702BCDBFDABB}|Hastane_Projesi\\Hastane_Projesi.csproj|C:\\Users\\ASUS\\source\\repos\\Hastane_Projesi\\hastane_projesi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CEADD3A1-5BC2-4BDB-A765-702BCDBFDABB}|Hastane_Projesi\\Hastane_Projesi.csproj|solutionrelative:hastane_projesi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEADD3A1-5BC2-4BDB-A765-702BCDBFDABB}|Hastane_Projesi\\Hastane_Projesi.csproj|C:\\Users\\ASUS\\source\\repos\\Hastane_Projesi\\hastane_projesi\\frmuyekayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CEADD3A1-5BC2-4BDB-A765-702BCDBFDABB}|Hastane_Projesi\\Hastane_Projesi.csproj|solutionrelative:hastane_projesi\\frmuyekayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,6 +75,90 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FrmRandevuListesi.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Hastane_Projesi\\Hastane_Projesi\\FrmRandevuListesi.cs",
+              "RelativeDocumentMoniker": "Hastane_Projesi\\FrmRandevuListesi.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Hastane_Projesi\\Hastane_Projesi\\FrmRandevuListesi.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Hastane_Projesi\\FrmRandevuListesi.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T20:48:45.533Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmBrans.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Hastane_Projesi\\Hastane_Projesi\\FrmBrans.cs",
+              "RelativeDocumentMoniker": "Hastane_Projesi\\FrmBrans.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Hastane_Projesi\\Hastane_Projesi\\FrmBrans.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Hastane_Projesi\\FrmBrans.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T20:46:29.368Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmDoktorPaneli.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Hastane_Projesi\\Hastane_Projesi\\FrmDoktorPaneli.cs",
+              "RelativeDocumentMoniker": "Hastane_Projesi\\FrmDoktorPaneli.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Hastane_Projesi\\Hastane_Projesi\\FrmDoktorPaneli.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Hastane_Projesi\\FrmDoktorPaneli.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T20:39:04.294Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmSekreterDetay.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Hastane_Projesi\\Hastane_Projesi\\FrmSekreterDetay.cs",
+              "RelativeDocumentMoniker": "Hastane_Projesi\\FrmSekreterDetay.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Hastane_Projesi\\Hastane_Projesi\\FrmSekreterDetay.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Hastane_Projesi\\FrmSekreterDetay.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T20:06:23.268Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmSekreterGiris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Hastane_Projesi\\Hastane_Projesi\\FrmSekreterGiris.cs",
+              "RelativeDocumentMoniker": "Hastane_Projesi\\FrmSekreterGiris.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Hastane_Projesi\\Hastane_Projesi\\FrmSekreterGiris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Hastane_Projesi\\FrmSekreterGiris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T20:04:30.148Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmDuyurular.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Hastane_Projesi\\Hastane_Projesi\\FrmDuyurular.cs",
+              "RelativeDocumentMoniker": "Hastane_Projesi\\FrmDuyurular.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Hastane_Projesi\\Hastane_Projesi\\FrmDuyurular.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Hastane_Projesi\\FrmDuyurular.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T19:58:22.53Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmDoktorBilgiD\u00FCzenle.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Hastane_Projesi\\Hastane_Projesi\\FrmDoktorBilgiD\u00FCzenle.cs",
+              "RelativeDocumentMoniker": "Hastane_Projesi\\FrmDoktorBilgiD\u00FCzenle.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Hastane_Projesi\\Hastane_Projesi\\FrmDoktorBilgiD\u00FCzenle.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Hastane_Projesi\\FrmDoktorBilgiD\u00FCzenle.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T19:54:10.339Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "FrmDoktorDetay.cs [Tasar\u0131m]",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Hastane_Projesi\\Hastane_Projesi\\FrmDoktorDetay.cs",
               "RelativeDocumentMoniker": "Hastane_Projesi\\FrmDoktorDetay.cs",
@@ -58,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "FrmDoktorGiris.cs [Tasar\u0131m]",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Hastane_Projesi\\Hastane_Projesi\\FrmDoktorGiris.cs",
               "RelativeDocumentMoniker": "Hastane_Projesi\\FrmDoktorGiris.cs",
@@ -70,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "FrmBilgiD\u00FCzenle.cs [Tasar\u0131m]",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Hastane_Projesi\\Hastane_Projesi\\FrmBilgiD\u00FCzenle.cs",
               "RelativeDocumentMoniker": "Hastane_Projesi\\FrmBilgiD\u00FCzenle.cs",
@@ -94,19 +206,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 13,
               "Title": "FrmUyeKayit.cs [Tasar\u0131m]",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Hastane_Projesi\\Hastane_Projesi\\FrmUyeKayit.cs",
               "RelativeDocumentMoniker": "Hastane_Projesi\\FrmUyeKayit.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Hastane_Projesi\\Hastane_Projesi\\FrmUyeKayit.cs [Tasar\u0131m]",
               "RelativeToolTip": "Hastane_Projesi\\FrmUyeKayit.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T20:11:11.991Z",
-              "EditorCaption": " [Tasar\u0131m]"
+              "WhenOpened": "2024-04-02T20:11:11.991Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Frmhastagiris.cs [Tasar\u0131m]",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Hastane_Projesi\\Hastane_Projesi\\Frmhastagiris.cs",
               "RelativeDocumentMoniker": "Hastane_Projesi\\Frmhastagiris.cs",
@@ -118,15 +229,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "Form1.cs [Tasar\u0131m]",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Hastane_Projesi\\Hastane_Projesi\\Form1.cs",
               "RelativeDocumentMoniker": "Hastane_Projesi\\Form1.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Hastane_Projesi\\Hastane_Projesi\\Form1.cs [Tasar\u0131m]",
               "RelativeToolTip": "Hastane_Projesi\\Form1.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T19:05:45.541Z",
-              "EditorCaption": " [Tasar\u0131m]"
+              "WhenOpened": "2024-04-02T19:05:45.541Z"
             }
           ]
         }
