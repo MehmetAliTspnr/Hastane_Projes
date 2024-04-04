@@ -28,13 +28,14 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.button3 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button1 = new System.Windows.Forms.Button();
+            this.btnasistangirisi = new System.Windows.Forms.Button();
+            this.btndoktorgirisi = new System.Windows.Forms.Button();
+            this.btnhastagirisi = new System.Windows.Forms.Button();
             this.label4 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -76,35 +77,38 @@
             this.pictureBox1.TabIndex = 6;
             this.pictureBox1.TabStop = false;
             // 
-            // button3
+            // btnasistangirisi
             // 
-            this.button3.BackgroundImage = global::Hastane_Projesi.Properties.Resources.sekreterpng;
-            this.button3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.button3.Location = new System.Drawing.Point(560, 248);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(198, 137);
-            this.button3.TabIndex = 2;
-            this.button3.UseVisualStyleBackColor = true;
+            this.btnasistangirisi.BackgroundImage = global::Hastane_Projesi.Properties.Resources.sekreterpng;
+            this.btnasistangirisi.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btnasistangirisi.Location = new System.Drawing.Point(560, 248);
+            this.btnasistangirisi.Name = "btnasistangirisi";
+            this.btnasistangirisi.Size = new System.Drawing.Size(198, 137);
+            this.btnasistangirisi.TabIndex = 2;
+            this.btnasistangirisi.UseVisualStyleBackColor = true;
+            this.btnasistangirisi.Click += new System.EventHandler(this.btnasistangirisi_Click);
             // 
-            // button2
+            // btndoktorgirisi
             // 
-            this.button2.BackgroundImage = global::Hastane_Projesi.Properties.Resources.doctorpng;
-            this.button2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.button2.Location = new System.Drawing.Point(329, 248);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(185, 137);
-            this.button2.TabIndex = 1;
-            this.button2.UseVisualStyleBackColor = true;
+            this.btndoktorgirisi.BackgroundImage = global::Hastane_Projesi.Properties.Resources.doctorpng;
+            this.btndoktorgirisi.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btndoktorgirisi.Location = new System.Drawing.Point(329, 248);
+            this.btndoktorgirisi.Name = "btndoktorgirisi";
+            this.btndoktorgirisi.Size = new System.Drawing.Size(185, 137);
+            this.btndoktorgirisi.TabIndex = 1;
+            this.btndoktorgirisi.UseVisualStyleBackColor = true;
+            this.btndoktorgirisi.Click += new System.EventHandler(this.btndoktorgirisi_Click);
             // 
-            // button1
+            // btnhastagirisi
             // 
-            this.button1.BackgroundImage = global::Hastane_Projesi.Properties.Resources.patient_png;
-            this.button1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.button1.Location = new System.Drawing.Point(105, 248);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(177, 137);
-            this.button1.TabIndex = 0;
-            this.button1.UseVisualStyleBackColor = true;
+            this.btnhastagirisi.BackgroundImage = global::Hastane_Projesi.Properties.Resources.patient_png;
+            this.btnhastagirisi.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btnhastagirisi.Location = new System.Drawing.Point(105, 248);
+            this.btnhastagirisi.Name = "btnhastagirisi";
+            this.btnhastagirisi.Size = new System.Drawing.Size(177, 137);
+            this.btnhastagirisi.TabIndex = 0;
+            this.btnhastagirisi.UseVisualStyleBackColor = true;
+            this.btnhastagirisi.Click += new System.EventHandler(this.btnhastagirisi_Click);
             // 
             // label4
             // 
@@ -120,20 +124,23 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(14F, 27F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.BackColor = System.Drawing.Color.LightSeaGreen;
-            this.ClientSize = new System.Drawing.Size(866, 468);
+            this.ClientSize = new System.Drawing.Size(861, 462);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.button3);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.btnasistangirisi);
+            this.Controls.Add(this.btndoktorgirisi);
+            this.Controls.Add(this.btnhastagirisi);
             this.Font = new System.Drawing.Font("Georgia", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Margin = new System.Windows.Forms.Padding(5);
+            this.MaximizeBox = false;
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "HASTANE OTOMASYONU";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -142,9 +149,9 @@
 
         #endregion
 
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.Button btnhastagirisi;
+        private System.Windows.Forms.Button btndoktorgirisi;
+        private System.Windows.Forms.Button btnasistangirisi;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;

@@ -18,3 +18,6 @@ C:\Users\ASUS\source\repos\Hastane_Projesi\Hastane_Projesi\obj\Debug\Hastane_Pro
 C:\Users\ASUS\source\repos\Hastane_Projesi\Hastane_Projesi\obj\Debug\Hastane_Projesi.FrmHastaDetay.resources
 C:\Users\ASUS\source\repos\Hastane_Projesi\Hastane_Projesi\obj\Debug\Hastane_Projesi.FrmSekreterDetay.resources
 C:\Users\ASUS\source\repos\Hastane_Projesi\Hastane_Projesi\obj\Debug\Hastane_Projesi.FrmSekreterGiris.resources
+C:\Users\ASUS\source\repos\Hastane_Projesi\Hastane_Projesi\obj\Debug\Hastane_Projesi.FrmBrans.resources
+C:\Users\ASUS\source\repos\Hastane_Projesi\Hastane_Projesi\obj\Debug\Hastane_Projesi.FrmDoktorPaneli.resources
+C:\Users\ASUS\source\repos\Hastane_Projesi\Hastane_Projesi\obj\Debug\Hastane_Projesi.FrmRandevuListesi.resources

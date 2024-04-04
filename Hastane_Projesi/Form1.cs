@@ -16,5 +16,26 @@ namespace Hastane_Projesi
         {
             InitializeComponent();
         }
+
+        private void btnhastagirisi_Click(object sender, EventArgs e)
+        {
+            Frmhastagiris fr = new Frmhastagiris();
+            fr.Show();
+            this.Hide();
+        }
+
+        private void btndoktorgirisi_Click(object sender, EventArgs e)
+        {
+           FrmDoktorGiris fr=new FrmDoktorGiris();
+            fr.Show();
+            this.Hide();
+        }
+
+        private void btnasistangirisi_Click(object sender, EventArgs e)
+        {
+            FrmSekreterGiris fr=new FrmSekreterGiris();
+            fr.Show();
+            this.Hide();
+        }
     }
 }
