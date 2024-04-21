@@ -47,5 +47,23 @@ namespace Hastane_Projesi
             }
 
         }
+
+        private void Cmbbrans_SelectedIndexChanged(object sender, EventArgs e)
+        {   cmbdoktor.Items.Clear();
+            SqlCommand komut3 = new SqlCommand("Select DoktorAd,DoktorSoyad From Tbl_Doktorlar where DoktorBrans=@p1", bgl.baglanti());
+            komut3.Parameters.AddWithValue("@p1", Cmbbrans.Text);
+            SqlDataReader dr3 = komut3.ExecuteReader();
+            while (dr3.Read())
+            {
+                cmbdoktor.Items.Add(dr3[0]+ " " + dr3[1]);
+            }
+            bgl.baglanti().Close();
+        }
+
+        private void cmbdoktor_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            //id kısmı hasta detay//cmbdoktor seçildi
+
+        }
     }
 }
