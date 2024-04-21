@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.ListView;
 
 namespace Hastane_Projesi
 {
@@ -32,6 +33,7 @@ namespace Hastane_Projesi
             SqlDataReader dr = komut.ExecuteReader();
             if(dr.Read()) 
             { FrmHastaDetay frm = new FrmHastaDetay();
+                frm.tc=Msktc.Text; //giriş yaparken girilen tc yi hasta detay formunda tc kısmına otomatik olarak eklemesini sağlad
                 frm.Show();
                 this.Hide();
             }
